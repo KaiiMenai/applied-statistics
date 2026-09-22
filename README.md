@@ -1,9 +1,11 @@
 # applied-statistics
-Applied Statistics Module 
+
+Applied Statistics Module
 
 This repository contains the work and resources for the Applied Statistics module as part of the Data Analytics PGDip at ATU.
 
 In this repo:
+
 - README.md
 - AGENTS.md
 - requirements.txt
