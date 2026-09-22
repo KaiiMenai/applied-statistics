@@ -11,3 +11,4 @@ In this repo:
 
 Tin requirements first before the ipynb. I may end up adding in a pure python file to run the analysis and put the outputs into a folder as I just prefer it that way. But for the purposes of the course, all my work, thoughts, and analysis will be in the problems.ipynb.
 
+# END
